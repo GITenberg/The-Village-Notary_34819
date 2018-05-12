@@ -1,0 +1,50 @@
+_repo: The-Village-Notary_34819
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Pulszky, Ferencz Aurelius
+    aliases:
+    - Pulszky, Ferenc
+    - Pulszky, Francis
+    birthdate: 1814
+    deathdate: 1897
+    gutenberg_agent_id: '37253'
+    url: http://www.gutenberg.org/2009/agents/37253
+  translator:
+    agent_name: Wenckstern, Otto von
+    aliases:
+    - Wenckstern, Otto
+    - Von Wenckstern, Otto
+    birthdate: 1819
+    deathdate: 1869
+    gutenberg_agent_id: '37254'
+    url: http://www.gutenberg.org/2009/agents/37254
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eötvös, József, báró
+    aliases:
+    - Eotvos, Jozsef, baro
+    - Gotvos, Josef, Freiherr von
+    - Götvös, Josef, Freiherr von
+    birthdate: 1813
+    deathdate: 1871
+    gutenberg_agent_id: '37252'
+    url: http://www.gutenberg.org/2009/agents/37252
+description: ''
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34819'
+  lccn: '62056466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungary -- Fiction'
+title: 'The Village Notary: A Romance of Hungarian Life'
+url: http://www.gutenberg.org/ebooks/34819
